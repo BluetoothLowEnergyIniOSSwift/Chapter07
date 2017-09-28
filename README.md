@@ -1,6 +1,6 @@
 # Bluetooth Low Energy in iOS Swift
 
-## Chapter 7: Read Data from a Peripheral
+## Chapter 7: Reading Data from a Peripheral
 
 
 These are **complete downloadable code examples** from my book, _Bluetooth Low Energy with iOS Swift_.  The book teaches how to make Bluetooth Low Energy devices using iOS/Swift.  
