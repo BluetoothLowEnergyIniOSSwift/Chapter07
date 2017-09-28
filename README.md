@@ -1,4 +1,4 @@
-# Bluetooth Low Energy with Android and Arduino: 
+# Bluetooth Low Energy in iOS Swift
 
 ## Chapter 7: Read Data from a Peripheral
 
